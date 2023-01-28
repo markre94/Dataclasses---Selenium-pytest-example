@@ -1,3 +1,9 @@
 venv
 .idea
 *.pytest_cache
+img
+.gitignore
+*.md
+__pytest_cache___
+__pycache__
+
