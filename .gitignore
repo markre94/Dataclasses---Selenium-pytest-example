@@ -6,4 +6,4 @@ img
 *.md
 __pytest_cache___
 __pycache__
-
+*.pdf
